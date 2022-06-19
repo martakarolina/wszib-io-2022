@@ -5,4 +5,4 @@ Prototyp - nie zaleca się używać na produkcji.
 `javac trojkaty.java`
 
 ## Uruchamianie
-`java Trojkaty 1 2 3`
+`java tTrojkaty 1 2 3`
